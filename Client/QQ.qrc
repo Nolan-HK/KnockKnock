@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/Style"/>
+    <qresource prefix="/Image">
+        <file>resource/avatar0.png</file>
+        <file>resource/avatar1.png</file>
+        <file>resource/avatar2.png</file>
+        <file>resource/avatar3.png</file>
+        <file>resource/avatar4.png</file>
+        <file>resource/avatar5.png</file>
+        <file>resource/avatar6.png</file>
+        <file>resource/avatar7.png</file>
+        <file>resource/avatar8.png</file>
+        <file>resource/close.png</file>
+        <file>resource/default.jpg</file>
+        <file>resource/eye_hide.png</file>
+        <file>resource/eye_show.png</file>
+        <file>resource/selected.png</file>
+        <file>resource/login_background.png</file>
+        <file>resource/search.png</file>
+    </qresource>
+    <qresource prefix="/Video"/>
+</RCC>
